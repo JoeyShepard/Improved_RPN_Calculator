@@ -1,0 +1,20 @@
+AddBCD
+======
+for stack wouldnt need to be in ram
+functions: 
+   Sub
+   Mult
+      result, temp(5), perm_buff1
+   Div
+      perm_buff3,perm_buff1,perm_buff2
+      result,perm_buff3,perm_buff1
+   LnBCD
+      p0,p1,p2
+   ExpBCD
+      p1,result,p2
+      p1,p0,temp
+   CalcTanBCD
+      p1,result,p0
+      p0,result3,trig+trigptr <===== copy to buffer?
+
+

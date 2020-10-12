@@ -1,0 +1,25 @@
+Tested:
+=======
+sin
+tan
+cos
+log
+e^x
+ln
+10^x
+1/x
+mod
+sqrt
+x root y
+x^2
++/-
+acos
+asin
+atan
+round
+
+Untested:
+=========
+
+
+look back at all keys

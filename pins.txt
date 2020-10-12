@@ -1,0 +1,28 @@
+Reset?
+ISP?
+Rx
+Tx
+15 pins left
+
+5x6 = 11 pins
+7 pins left
+
+SRAM in
+SRAM out
+SRAM clk
+SRAM CS?
+
+LCD in
+LCD busy
+LCD clk?
+LCD reset
+
+7 pins:
+
+1. 0_4 = LCD Busy
+2. 0_5 = LCD_Reset
+3. MISO = SRAM out
+4. MOSI = SRAM in/LCD in
+5. SCK0 = SRAM clk
+6. LCD clk
+7. SRAM CS
